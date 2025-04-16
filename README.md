@@ -1,4 +1,4 @@
-This repository contains my notes for the "Generative AI with LLMs" course on Coursera, offered by DeepLearning.AI.
+This repository contains my notes for the ["Generative AI with LLMs"](https://www.coursera.org/learn/generative-ai-with-llms) course on Coursera, offered by DeepLearning.AI
 
 This course provides foundational understanding of:
 
